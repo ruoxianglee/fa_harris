@@ -15,6 +15,8 @@ This code has been tested with ROS kinetic on Ubuntu 16.04.
 <a href="https://youtu.be/v5CcBVkmI6w" target="_blank"><img src="http://img.youtube.com/vi/v5CcBVkmI6w/0.jpg" 
 alt="FA-Harris detector" width="480" height="360" border="10" /></a>
 
+## [Slides](https://ruoxianglee.github.io/files/FA_Harris_IROS_2019.pdf)
+
 ## Publication
 If you use this work, please cite the following [publication](https://ruoxianglee.github.io/FA-Harris): 
 
