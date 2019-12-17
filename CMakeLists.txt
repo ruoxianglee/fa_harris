@@ -41,9 +41,3 @@ list(APPEND SOURCE_FILES
 
 add_executable(fa_harris ${SOURCE_FILES} src/fa_harris.cc)
 target_link_libraries(fa_harris ${LIBS})
-
-add_executable(ground_truth_klt ${SOURCE_FILES} src/evaluation/ground_truth_klt.cc)
-target_link_libraries(ground_truth_klt ${LIBS})
-
-add_executable(true_rate ${SOURCE_FILES} src/evaluation/true_rate.cc)
-target_link_libraries(true_rate ${LIBS})
